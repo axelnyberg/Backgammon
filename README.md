@@ -8,6 +8,6 @@ A fully functional Backgammon Application for Windows.
 *Game music<br>
 *Animations<br>
 *How to play instructions<br>
-*two player mode<br>
+*Two player mode<br>
 *Pause and continue game<br>
 *Mute game music
