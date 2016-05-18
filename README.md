@@ -1,6 +1,6 @@
 Backgammon WPF Application
 ==========
-A fully functional Backgammon game for Windows created by me and a group of classmates at Jönköping University.
+A backgammon game for Windows created by me and a group of classmates at Jönköping University.
 
 **Language:** C#<br>
 
