@@ -1,8 +1,8 @@
 Backgammon WPF Application
 ==========
-A fully functional Backgammon Apllication for Windows.
+A fully functional Backgammon Application for Windows.
 
-**Language:**C#<br>
+**Language:** C#<br>
 
 **Features:**<br>
 *Game music<br>
